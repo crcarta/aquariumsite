@@ -1,0 +1,6 @@
+body
+{
+    min-height: 110vh;
+    background-color: #4499ee;
+    background-image: linear-gradient(135deg,#4499ee 0%,#a4aab1 100%)
+}
