@@ -16,6 +16,8 @@ Idea:
   So, I decided to make a friendlier UI for the program, something usable to individuals who do not live inside the linux terminal. This was 
   a fun learning experience.
   
+  <img src="images/website.png" width ="700" height="550"> 
+  
   The new version is written in PHP, and still has a long way to go in terms of looks and function. But for now, it mostly works. I linked it to a 
   MySQL database as well, just for the sake of doing so. Also the program's legibility is improved over the original with ternaries and generally 
   better practice.
