@@ -13,7 +13,7 @@ Idea:
   However, I believe it was a professor I had, said something along the lines of UI nightmares come from 2 things, programmers making
   software for other programmers, and perhaps worse, programmers writing for themselves.
   
-  So, I decided to make a friendlier UI for the program, something usable to individuals who do not live inside the linux terminal. This was 
+  So, I decided to make a friendlier UI for the program. This was 
   a fun learning experience.
   
   <img src="images/website1.png" width ="700" height="550"> 
